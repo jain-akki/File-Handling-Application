@@ -1,0 +1,25 @@
+C:\Users\Akshay\Desktop\C# Programs(2013)\C# Programs\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\Akshay\Desktop\C# Programs(2013)\C# Programs\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\Akshay\Desktop\C# Programs(2013)\C# Programs\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\obj\x86\Debug\FileHandling.Form1.resources
+C:\Users\Akshay\Desktop\C# Programs(2013)\C# Programs\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\obj\x86\Debug\FileHandling.Properties.Resources.resources
+C:\Users\Akshay\Desktop\C# Programs(2013)\C# Programs\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\obj\x86\Debug\FileHandling.csproj.GenerateResource.Cache
+C:\Users\Akshay\Desktop\C# Programs(2013)\C# Programs\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\obj\x86\Debug\FileHandling.exe
+C:\Users\Akshay\Desktop\C# Programs(2013)\C# Programs\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\obj\x86\Debug\FileHandling.pdb
+C:\Users\Akshay\Desktop\C# Programs(2013)\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\obj\x86\Debug\FileHandling.exe
+C:\Users\Akshay\Desktop\C# Programs(2013)\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\obj\x86\Debug\FileHandling.pdb
+C:\Users\Akshay\Desktop\C# Programs(2013)\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\obj\x86\Debug\FileHandling.Form1.resources
+C:\Users\Akshay\Desktop\C# Programs(2013)\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\obj\x86\Debug\FileHandling.Properties.Resources.resources
+C:\Users\Akshay\Desktop\C# Programs(2013)\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\obj\x86\Debug\FileHandling.csproj.GenerateResource.Cache
+C:\Users\Akshay\Desktop\C# Programs(2013)\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\Akshay\Desktop\C# Programs(2013)\Windows Forms Application\8-Aug-15\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+D:\Dotnet(ak)\18aug\FileHandling\FileHandling\obj\x86\Debug\FileHandling.exe
+D:\Dotnet(ak)\18aug\FileHandling\FileHandling\obj\x86\Debug\FileHandling.pdb
+D:\Dotnet(ak)\18aug\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+D:\Dotnet(ak)\18aug\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+D:\Dotnet(ak)\18aug\FileHandling\FileHandling\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dotnet(ak)\18aug\FileHandling\FileHandling\obj\x86\Debug\FileHandling.Form1.resources
+D:\Dotnet(ak)\18aug\FileHandling\FileHandling\obj\x86\Debug\FileHandling.Properties.Resources.resources
+D:\Dotnet(ak)\18aug\FileHandling\FileHandling\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dotnet(ak)\18aug\FileHandling\FileHandling\obj\x86\Debug\GenerateResource.write.1.tlog
+\\server\Ankit\10 - 11.30\Akshay Exercise\WindowsFormApp\FileHandling\FileHandling\obj\x86\Debug\FileHandling.exe
+\\server\Ankit\10 - 11.30\Akshay Exercise\WindowsFormApp\FileHandling\FileHandling\obj\x86\Debug\FileHandling.pdb
